@@ -3,7 +3,7 @@ main = "index.js"
 compatibility_date = "2024-10-01"
 
 kv_namespaces = [
-  { binding = "BRAND_IMG", id = "REPLACE_WITH_YOUR_KV_ID" }
+  { binding = "BRAND_IMG", id = "83f50e5b059f49af9c3c3315f68dd6a2" }
 ]
 
 [assets]
