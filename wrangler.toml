@@ -1,0 +1,11 @@
+name = "playreport-avatar-upload"
+main = "index.js"
+compatibility_date = "2024-10-01"
+
+kv_namespaces = [
+  { binding = "BRAND_IMG", id = "REPLACE_WITH_YOUR_KV_ID" }
+]
+
+[assets]
+directory = "."
+binding = "ASSETS"
