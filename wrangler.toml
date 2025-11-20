@@ -1,0 +1,6 @@
+name = "playreport-avatar-upload"
+compatibility_date = "2024-10-01"
+
+kv_namespaces = [
+  { binding = "BRAND_IMG", id = "83f50e5b059f49af9c3c3315f68dd6a2" }
+]
