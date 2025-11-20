@@ -1,4 +1,4 @@
-name = "playreport-avatar-upload"
+name = "playreportautoposterimage"
 main = "index.js"
 compatibility_date = "2024-10-01"
 
